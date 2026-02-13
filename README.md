@@ -1,2 +1,2 @@
-# SpamSweep-Discord-bot
-A powerful Discord moderation bot designed to hunt down spam messages. Just reply to a spam message and use /spammer — SpamSweep will scan all channels, threads, and voice chat text, delete identical messages, and ban the users responsible. Fast, precise, and safe, it protects your server from raids and repeated spam without touching older or safe messages.
+# CleanStrike
+CleanStrike is a fast and precise Discord moderation bot. Reply to a user’s message and use the command to ban them instantly and delete all of their recent messages across every messageable channel (text, threads, voice channel chats, forums). Perfect for keeping your server safe from spammers and unwanted content, while respecting admin and owner roles.
